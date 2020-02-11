@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/milliwonkimonaire/static/css/main.d1b05096.chunk.css",
-    "main.js": "/milliwonkimonaire/static/js/main.e6a19155.chunk.js",
-    "main.js.map": "/milliwonkimonaire/static/js/main.e6a19155.chunk.js.map",
-    "runtime-main.js": "/milliwonkimonaire/static/js/runtime-main.e5836496.js",
-    "runtime-main.js.map": "/milliwonkimonaire/static/js/runtime-main.e5836496.js.map",
-    "static/css/2.67123b20.chunk.css": "/milliwonkimonaire/static/css/2.67123b20.chunk.css",
-    "static/js/2.98a7c26b.chunk.js": "/milliwonkimonaire/static/js/2.98a7c26b.chunk.js",
-    "static/js/2.98a7c26b.chunk.js.map": "/milliwonkimonaire/static/js/2.98a7c26b.chunk.js.map",
-    "index.html": "/milliwonkimonaire/index.html",
-    "precache-manifest.24487549d2b730e56332223cf6cf47d6.js": "/milliwonkimonaire/precache-manifest.24487549d2b730e56332223cf6cf47d6.js",
-    "service-worker.js": "/milliwonkimonaire/service-worker.js",
-    "static/css/2.67123b20.chunk.css.map": "/milliwonkimonaire/static/css/2.67123b20.chunk.css.map",
-    "static/css/main.d1b05096.chunk.css.map": "/milliwonkimonaire/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.98a7c26b.chunk.js.LICENSE.txt": "/milliwonkimonaire/static/js/2.98a7c26b.chunk.js.LICENSE.txt",
-    "static/media/home1.jpg": "/milliwonkimonaire/static/media/home1.648d0b22.jpg"
+    "main.css": "/milliwonkim/static/css/main.d1b05096.chunk.css",
+    "main.js": "/milliwonkim/static/js/main.ad077a27.chunk.js",
+    "main.js.map": "/milliwonkim/static/js/main.ad077a27.chunk.js.map",
+    "runtime-main.js": "/milliwonkim/static/js/runtime-main.cf4b5dfc.js",
+    "runtime-main.js.map": "/milliwonkim/static/js/runtime-main.cf4b5dfc.js.map",
+    "static/css/2.67123b20.chunk.css": "/milliwonkim/static/css/2.67123b20.chunk.css",
+    "static/js/2.5951d03e.chunk.js": "/milliwonkim/static/js/2.5951d03e.chunk.js",
+    "static/js/2.5951d03e.chunk.js.map": "/milliwonkim/static/js/2.5951d03e.chunk.js.map",
+    "index.html": "/milliwonkim/index.html",
+    "precache-manifest.fbf24779d836d64986bc58ae44a1167b.js": "/milliwonkim/precache-manifest.fbf24779d836d64986bc58ae44a1167b.js",
+    "service-worker.js": "/milliwonkim/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/milliwonkim/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/milliwonkim/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.5951d03e.chunk.js.LICENSE.txt": "/milliwonkim/static/js/2.5951d03e.chunk.js.LICENSE.txt",
+    "static/media/home1.jpg": "/milliwonkim/static/media/home1.648d0b22.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5836496.js",
+    "static/js/runtime-main.cf4b5dfc.js",
     "static/css/2.67123b20.chunk.css",
-    "static/js/2.98a7c26b.chunk.js",
+    "static/js/2.5951d03e.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.e6a19155.chunk.js"
+    "static/js/main.ad077a27.chunk.js"
   ]
 }
