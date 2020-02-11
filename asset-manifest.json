@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/milliwonkimonaire/static/css/main.d1b05096.chunk.css",
+    "main.js": "/milliwonkimonaire/static/js/main.f56d11a1.chunk.js",
+    "main.js.map": "/milliwonkimonaire/static/js/main.f56d11a1.chunk.js.map",
+    "runtime-main.js": "/milliwonkimonaire/static/js/runtime-main.e5836496.js",
+    "runtime-main.js.map": "/milliwonkimonaire/static/js/runtime-main.e5836496.js.map",
+    "static/css/2.67123b20.chunk.css": "/milliwonkimonaire/static/css/2.67123b20.chunk.css",
+    "static/js/2.98a7c26b.chunk.js": "/milliwonkimonaire/static/js/2.98a7c26b.chunk.js",
+    "static/js/2.98a7c26b.chunk.js.map": "/milliwonkimonaire/static/js/2.98a7c26b.chunk.js.map",
+    "index.html": "/milliwonkimonaire/index.html",
+    "precache-manifest.83b30b1f20a5497464e872375d86756f.js": "/milliwonkimonaire/precache-manifest.83b30b1f20a5497464e872375d86756f.js",
+    "service-worker.js": "/milliwonkimonaire/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/milliwonkimonaire/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/milliwonkimonaire/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.98a7c26b.chunk.js.LICENSE.txt": "/milliwonkimonaire/static/js/2.98a7c26b.chunk.js.LICENSE.txt",
+    "static/media/home1.jpg": "/milliwonkimonaire/static/media/home1.648d0b22.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5836496.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.98a7c26b.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.f56d11a1.chunk.js"
+  ]
+}
