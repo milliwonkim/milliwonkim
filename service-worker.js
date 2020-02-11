@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/milliwonkimonaire/precache-manifest.83b30b1f20a5497464e872375d86756f.js"
+  "/milliwonkimonaire/precache-manifest.24487549d2b730e56332223cf6cf47d6.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f466df4901f621cbf935a5ee49c3409e",
+    "revision": "5a493335acfa7d53d811f24fe05e17c1",
     "url": "/milliwonkimonaire/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/milliwonkimonaire/static/css/2.67123b20.chunk.css"
   },
   {
-    "revision": "cd8e1a1eccfe3ba4e73d",
+    "revision": "b5e5c11193ed8aa2297f",
     "url": "/milliwonkimonaire/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/milliwonkimonaire/static/js/2.98a7c26b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd8e1a1eccfe3ba4e73d",
-    "url": "/milliwonkimonaire/static/js/main.f56d11a1.chunk.js"
+    "revision": "b5e5c11193ed8aa2297f",
+    "url": "/milliwonkimonaire/static/js/main.e6a19155.chunk.js"
   },
   {
     "revision": "1423a18aa454ae4e0083",
